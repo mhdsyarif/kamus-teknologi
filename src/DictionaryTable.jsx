@@ -20,7 +20,7 @@ export const DictionaryTable = props => {
         onChangeLimit={props.onChangeLimit}
       />
       Total count: {props.totalCount}.
-      <Table celled selectable sortable>
+      <Table celled unstackable sortable>
         <DictionaryTableHeader
           column={props.column}
           direction={props.direction}
