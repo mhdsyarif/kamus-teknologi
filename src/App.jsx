@@ -13,7 +13,7 @@ export class App extends Component {
           </Menu.Item>
           <Menu.Item position="right">
             <iframe
-              src="https://ghbtns.com/github-btn.html?user=mhdsyarif&repo=mhdsyarif/kamus-teknologi&type=star&count=true&size=large"
+              src="https://ghbtns.com/github-btn.html?user=mhdsyarif&repo=kamus-teknologi&type=star&count=true&size=large"
               scrolling="0"
               frameBorder="0"
               width="120px"
