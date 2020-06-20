@@ -20,6 +20,6 @@ export const DictionaryRow = props => (
 );
 
 DictionaryRow.propTypes = {
-  kamus: PropTypes.object.isRequired,
+  dictionary: PropTypes.object.isRequired,
   addFavorite: PropTypes.func.isRequired,
 };
