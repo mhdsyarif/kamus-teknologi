@@ -1,0 +1,196 @@
+{
+  "dictionaries": [
+    {
+      "id": 1,
+      "indonesia": "Admin sistem",
+      "english": "Sysadmin/System Administrator",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 2,
+      "indonesia": "Algoritme",
+      "english": "Algorithm",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 3,
+      "indonesia": "Antarmuka",
+      "english": "Interface",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 4,
+      "indonesia": "Area bersinyal",
+      "english": "Hotspot",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 5,
+      "indonesia": "Awakutu",
+      "english": "Debug",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 6,
+      "indonesia": "Berkas",
+      "english": "File",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 7,
+      "indonesia": "Biner",
+      "english": "Binary",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 8,
+      "indonesia": "Bita",
+      "english": "Byte",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 9,
+      "indonesia": "Bola jejak",
+      "english": "Track ball",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 10,
+      "indonesia": "But",
+      "english": "Boot",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 11,
+      "indonesia": "But",
+      "english": "Boot",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 12,
+      "indonesia": "Cacing Komputer",
+      "english": "Worm",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 13,
+      "indonesia": "Cakram flopi",
+      "english": "Floopy disk",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 14,
+      "indonesia": "Cakram keras",
+      "english": "Hard disk",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 15,
+      "indonesia": "Cakram optis",
+      "english": "Optical disk",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 16,
+      "indonesia": "Cakram padat",
+      "english": "Compact Disk",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 17,
+      "indonesia": "CD-bisa tulis ulang",
+      "english": "CD-rewriteteable",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 18,
+      "indonesia": "Cekatan",
+      "english": "Wizard",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 19,
+      "indonesia": "Cetak",
+      "english": "Print",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 20,
+      "indonesia": "Cip",
+      "english": "Chip",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 21,
+      "indonesia": "Dalam jaringan/Daring",
+      "english": "Online",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 22,
+      "indonesia": "Dekode",
+      "english": "Decode",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 23,
+      "indonesia": "Diode pancaran cahaya",
+      "english": "Light-emiting diode",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    },
+    {
+      "id": 24,
+      "indonesia": "DVD Bisa Tulis Ulang",
+      "english": "DVD Rewriteable",
+      "sumber": "Wikipedia",
+      "keterangan": "",
+      "suka": false
+    }
+  ]
+}
